@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "python-project-template"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Sho Shimauchi <sho.shimauchi@gmail.com>"]
 license = "Apache-2.0"
