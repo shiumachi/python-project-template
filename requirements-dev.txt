@@ -1,0 +1,11 @@
+# Development Packages
+pytest
+pytest-cov
+pytest-randomly
+pytest-mock
+scripttest
+flake8
+isort
+black
+pre-commit
+nox
